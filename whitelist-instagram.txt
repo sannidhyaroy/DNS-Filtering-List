@@ -11,13 +11,13 @@
 ! Number of entries: 465184
 !
 ! Allow Instagram
-!@@||instagram.fccu4-2.fna.fbcdn.net^$important
-@@||*instagram*^$important
-@@||z-p42-chat-e2ee-ig.facebook.com^$important
-@@||rupload.facebook.com^$important
-@@||rupload-fallback.facebook.com^$important
-@@||scontent*.fbcdn.net^$important
-@@||video*.fbcdn.net^$important
-@@||edge-mqtt.facebook.com^$important
-@@||edge-mqtt-fallback.facebook.com^$important
-!||*ig.facebook.com^$important
+!@@||instagram.fccu4-2.fna.fbcdn.net^
+@@||*instagram*^
+@@||z-p42-chat-e2ee-ig.facebook.com^
+@@||rupload.facebook.com^
+@@||rupload-fallback.facebook.com^
+@@||scontent*.fbcdn.net^
+@@||video*.fbcdn.net^
+@@||edge-mqtt.facebook.com^
+@@||edge-mqtt-fallback.facebook.com^
+!||*ig.facebook.com^
