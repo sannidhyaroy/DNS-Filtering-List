@@ -1,0 +1,133 @@
+[Adblock Plus]
+! Title: Sannidhya's DNS Filtering Rules
+! Description: Blocks certain domains that are not available in other blocklists, and allows certain ones that break applications
+! Homepage: https://github.com/sannidhyaroy/DNS-Filtering-List
+! License: https://github.com/sannidhyaroy/DNS-Filtering-List/blob/main/LICENSE
+! Issues: https://github.com/sannidhyaroy/DNS-Filtering-List/issues
+! Expires: 1 day
+! Last modified: 27 Jun 2025 11:28 UTC
+! Version: 2025.0627.1128.16
+! Syntax: AdBlock
+! Number of entries: 465184
+!
+! Allow List
+@@||s.youtube.com^$important
+@@||profile.swiggy.com^$important
+@@||fna.swiggy.com^$important
+@@||spns.swiggy.com^$important
+@@||disc.swiggy.com^$important
+@@||maps.swiggy.com^$important
+@@||asset-caching.swiggy.com^$important
+@@||chkout.swiggy.com^$important
+@@||webviews.swiggy.com^$important
+@@||aax-eu.amazon.in^$important
+@@||www.googleadservices.com^$important
+@@||indiafacts.org^$important
+@@||go.oracle.com^$important
+!
+! Sentry Tracking
+||browser.sentry-cdn.com^$important
+!
+! Yandex Tracking
+||appmetrica.yandex.ru^$important
+!
+! Xiaomi Native Tracking
+||data.mistat.rus.xiaomi.com^$important
+!
+! Apple Native Tracking
+||dzc-metrics.mzstatic.com^$important
+||securemvt.apple.com^$important
+||stocks-analytics-events.news.apple-dns.net^$important
+!
+! Samsung Native Tracking
+||bigdata.ssp.samsung.com^$important
+!
+! Windows Native Tracking
+||vortex-win.data.microsoft.com^$important
+||vortex.data.microsoft.com^$important
+||vortex.data.microsoft.com.akadns.net^$important
+||telemetry.microsoft.com^$important
+||choice.microsoft.com^$important
+||settings-win.data.microsoft.com^$important
+||telemetry.appex.bing.net^$important
+||corp.sts.microsoft.com^$important
+||diagnostics.support.microsoft.com^$important
+!
+! Office Telemetry
+||onecollector.cloudapp.aria.akadns.net^$important
+||prod.nexusrules.live.com.akadns.net^$important
+!
+! Sonos Telemetry
+||msmetrics-test.ws.sonos.com^$important
+!
+! Huawei Telemetry
+||datacollector-drcn.dt.hicloud.com^$important
+||datacollector-dre.dt.dbankcloud.cn^$important
+||datacollector-dre.dt.hicloud.com^$important
+||datacollector-drru.dt.dbankcloud.ru^$important
+||datacollector-drru.dt.hicloud.com^$important
+||grs.dbankcloud.asia^$important
+||grs.dbankcloud.cn^$important
+||grs.dbankcloud.com^$important
+||grs.dbankcloud.eu^$important
+||grs.platform.dbankcloud.ru^$important
+||metrics-dra.dt.dbankcloud.cn^$important
+||metrics-drcn.dt.hicloud.com^$important
+||metrics-dre.data.dbankcloud.cn^$important
+||metrics-dre.dt.dbankcloud.cn^$important
+||metrics.dt.dbankcloud.cn^$important
+||metrics.dt.hicloud.com^$important
+||metrics1-drcn.dt.dbankcloud.cn^$important
+||metrics1.data.dbankcloud.cn^$important
+||metrics5.dt.dbankcloud.ru^$important
+||logservice-dre.platform.dbankcloud.cn^$important
+||logservice-dre.platform.hicloud.com^$important
+||logservice-drru.dt.hicloud.com^$important
+!
+! Disguised Third-party Trackers
+||data.adobedc.net^$important
+||sc.adobedc.net^$important
+||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^$important
+||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^$important
+||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^$important
+||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^$important
+||affex.org^$important
+||webtrekk.netwt-eu02.net^$important
+||tracking.bp01.net^$important
+||actonservice.com^$important
+||hs.eloqua.com^$important
+||go.pardot.com^$important
+!
+! Snapchat Blocklist
+||feelinsonice-hrd.appspot.com^$important
+||feelinsonice.appspot.com^$important
+!||sc-cdn.net^$important
+||sc-gw.com^$important
+||sc-jpl.com^$important
+||sc-prod.net^$important
+!||snap-dev.net^$important
+!||snapchat.com^$important
+!
+! Tinder Blocklist
+||gotinder.com^$important
+||tinder.com^$important
+||tindersparks.com^$important
+!
+! TikTok Blocklist
+||*tiktok*^$important
+||*byteoversea*^$important
+!
+! BeReal Blocklist
+||bere.al^$important
+||bereal.com^$important
+!
+! Fandom ads Blocklist
+||jwpcdn.com^$domain=fandom.com
+||jwplayer.com^$domain=fandom.com
+||jwplatform.com^$domain=fandom.com
+||jwpltx.com^$domain=fandom.com
+||jwpsrv.com^$domain=fandom.com
+!
+! Mistyped Domains Blocklist
+||*goooooooooogle*^
+||*goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle*^
