@@ -1,0 +1,23 @@
+[Adblock Plus]
+! Title: Sannidhya's Instagram DNS Whitelist
+! Description: Whitelists Instagram only, doesn't touch other Meta Services
+! Homepage: https://github.com/sannidhyaroy/DNS-Filtering-List
+! License: https://github.com/sannidhyaroy/DNS-Filtering-List/blob/main/LICENSE
+! Issues: https://github.com/sannidhyaroy/DNS-Filtering-List/issues
+! Expires: 1 day
+! Last modified: 27 Jun 2025 11:28 UTC
+! Version: 2025.0627.1128.16
+! Syntax: AdBlock
+! Number of entries: 465184
+!
+! Allow Instagram
+!@@||instagram.fccu4-2.fna.fbcdn.net^$important
+@@||*instagram*^$important
+@@||z-p42-chat-e2ee-ig.facebook.com^$important
+@@||rupload.facebook.com^$important
+@@||rupload-fallback.facebook.com^$important
+@@||scontent*.fbcdn.net^$important
+@@||video*.fbcdn.net^$important
+@@||edge-mqtt.facebook.com^$important
+@@||edge-mqtt-fallback.facebook.com^$important
+!||*ig.facebook.com^$important
