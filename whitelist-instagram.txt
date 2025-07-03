@@ -5,8 +5,8 @@
 ! License: https://github.com/sannidhyaroy/DNS-Filtering-List/blob/main/LICENSE
 ! Issues: https://github.com/sannidhyaroy/DNS-Filtering-List/issues
 ! Expires: 1 day
-! Last modified: 29 Jun 2025 11:28 UTC
-! Version: 2025.0629.1128.16
+! Last modified: 03 Jul 2025 05:41 UTC
+! Version: 2025.0703.0541.35
 ! Syntax: AdBlock
 !
 @@||api.instagram.com^
@@ -61,6 +61,9 @@
 @@||instagram-shv-13-frc1.fbcdn.net^
 @@||instagram-shv-17-prn1.fbcdn.net^
 @@||instagram-shv-18-prn1.fbcdn.net^
+@@||instagram-fccu4-2.fna.fbcdn.net^
+@@||instagram-fccu4-3.fna.fbcdn.net^
+@@||instagram-fccu25-1.fna.fbcdn.net^
 @@||instagram.com^
 @@||instagramstatic-a.akamaihd.net^
 @@||instagramstatic-a.akamaihd.net.edgesuite.net^
